@@ -1,5 +1,9 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: helvetica;
+  text-align: center;
+  background-color: white;
+  color: black;
+  opacity: .65;
 }
 
 p, ol, ul {
